@@ -8,6 +8,10 @@ img {
     width: 20%;
 }
 
+a {
+    text-decoration: none;
+}
+
 nav{
     padding: 10px 25px;
     text-align: center;
@@ -16,6 +20,7 @@ nav{
     width: 100%;
     top: 0;
     background-color: rgb(169, 120, 55);
+    font-size: 20px;
 }
 
 h1{
@@ -28,17 +33,34 @@ iframe{
 }
 
 footer {
-    padding: 15px 20px;
+    padding: 10px 25px;
     text-align: center;
     margin-left: -10%;
     position: fixed;
     width: 100%;
     bottom: 0;
     background-color: rgb(169, 120, 55);
+    font-size: 15px;
 }
 
-a {
-    color: black;
-    font-size: 15px;
-    text-decoration: none;
+#color1{
+    color: rgb(255, 217, 186);
+}
+
+#color2{
+    color: rgb(242, 147, 147);
+}
+
+#color3{
+ color: rgb(240, 240, 166);
+}
+
+#color4{
+    color: rgb(179, 179, 234);
+}
+#color5{
+    color: rgb(190, 249, 190);
+}
+#color6{
+    color: rgb(241, 241, 174);
 }

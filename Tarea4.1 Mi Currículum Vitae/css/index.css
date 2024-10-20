@@ -1,0 +1,44 @@
+body {
+    padding-top: 10px;
+    padding-left: 20px;
+    background-color: rgb(245, 214, 174);
+}
+
+img {
+    width: 20%;
+}
+
+nav{
+    padding: 10px 25px;
+    text-align: center;
+    margin-left: -10%;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: rgb(169, 120, 55);
+}
+
+h1{
+    margin-top: 100px;
+}
+
+iframe{
+    margin-left: 45%;
+    margin-top: -50%;
+}
+
+footer {
+    padding: 10px 25px;
+    text-align: center;
+    margin-left: -10%;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    background-color: rgb(169, 120, 55);
+}
+
+a {
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
